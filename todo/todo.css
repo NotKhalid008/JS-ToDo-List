@@ -1,0 +1,141 @@
+body {
+    background-color: #333;
+}
+.container {
+    width: 500px;
+    height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #333;
+}
+.inpt {
+    display: flex;
+}
+#text {
+    width: 460px;
+    height: 50px;
+    margin-top: 20px;
+    margin-left: 20px;
+    border: black solid 5px;
+    border-radius: 10px;
+}
+#button {
+    width: 50px;
+    height: 50px;
+    margin-top: 20px;
+    margin-left: 10px;
+    border: black solid 5px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.list {
+    color: black;
+    font-family: sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+}
+.output {
+    margin-left: 20px;
+    height: 200px;
+    margin-top: 20px;
+    padding-bottom: 100px;
+    border-radius: 10px;
+    border: black solid 5px;
+    width: 450px;
+    background-color: white;
+}
+.btn1 {
+    display: flex;
+}
+#btn1a {
+    cursor: pointer;
+    border: solid black 3px;
+}
+#btn1b {
+    cursor: pointer;
+    border: solid black 3px;
+}
+
+.btn2 {
+    display: flex;
+}
+#btn2a {
+    cursor: pointer;
+    border: solid black 3px;
+}
+#btn2b {
+    cursor: pointer;
+    border: solid black 3px;
+}
+
+.btn3 {
+    display: flex;
+}
+#btn3a {
+    cursor: pointer;
+    border: solid black 3px;
+}
+#btn3b {
+    cursor: pointer;
+    border: solid black 3px;
+}
+
+.btn4 {
+    display: flex;
+}
+#btn4a {
+    cursor: pointer;
+    border: solid black 3px;
+}
+#btn4b {
+    cursor: pointer;
+    border: solid black 3px;
+}
+
+.btn5 {
+    display: flex;
+}
+#btn5a {
+    cursor: pointer;
+    border: solid black 3px;
+}
+#btn5b {
+    cursor: pointer;
+    border: solid black 3px;
+}
+
+.btn6 {
+    display: flex;
+}
+#btn6a {
+    cursor: pointer;
+    border: solid black 3px;
+}
+#btn6b {
+    cursor: pointer;
+    border: solid black 3px;
+}
+
+#btn1c {
+    cursor: pointer;
+    border: solid black 3px;
+}
+#btn2c {
+    cursor: pointer;
+    border: solid black 3px;
+}#btn3c {
+    cursor: pointer;
+    border: solid black 3px;
+}
+#btn4c {
+    cursor: pointer;
+    border: solid black 3px;
+}
+#btn5c {
+    cursor: pointer;
+    border: solid black 3px;
+}
+#btn6c {
+    cursor: pointer;
+    border: solid black 3px;
+}
